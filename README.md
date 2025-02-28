@@ -12,7 +12,7 @@ This repository provides an AI-based pipeline for analyzing Cryo-EM images using
 ## Installation
 Clone the repository and install dependencies:
 ```sh
-git clone https://github.com/yourusername/cryoem-ai-mona.git
+git clone https://github.com/HussainAther/cryoem-ai-mona.git
 cd cryoem-ai-mona
 pip install -r requirements.txt
 ```
